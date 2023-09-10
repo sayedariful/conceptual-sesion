@@ -1,0 +1,19 @@
+.country{
+    border: 2px solid tomato;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.myButton{
+    background-color: blue;
+    color: white;
+    border: 2px solid rgb(255, 102, 0);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.myButton:hover{
+    background-color: white;
+    color: blue;
+    border: 2px solid rgb(255, 102, 0);
+}
